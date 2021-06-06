@@ -1,0 +1,9 @@
+h1 {
+  color: brown;
+}
+
+.header {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+}
